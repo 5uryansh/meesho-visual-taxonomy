@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 2
-Download the dataset from 
+Download the dataset from [here](https://zenodo.org/records/13946178?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjE4ZDczMDRkLTAzNjktNDU3OC04YTQ2LTZhOWZlZjdkMTAxZiIsImRhdGEiOnt9LCJyYW5kb20iOiJhNDAwNGUwODM3MTQwYTAxODY5YjNjNTAzNWY4NGUxOCJ9.3-oMitlWeZwHFIKssEc3vGWw6623evGzUN1YlrswMrZPaqdwtZmPqWbADEWnXpVxE0Obq1tdxp5higNFEv_Xdg)
 Make sure that the dataset is in `dataset` folder having `train.csv`, `test.csv`, `category_attributes.parquet`, `train_images`, and `test_images`.
 
 ### Step 3
